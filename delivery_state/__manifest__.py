@@ -14,7 +14,7 @@
     "license": "AGPL-3",
     "category": "Delivery",
     "version": "17.0.1.0.0",
-    "depends": ["delivery", "stock_delivery"],
+    "depends": ["delivery"],
     "data": [
         "data/ir_cron_data.xml",
         "data/mail_template.xml",
